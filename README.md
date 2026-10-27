@@ -24,6 +24,7 @@ A collection of my LeetCode solutions written in C++, covering Data Structures a
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sanskar7105/leetcode/tree/master/0189-rotate-array) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanskar7105/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Sanskar7105/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
