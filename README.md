@@ -8,6 +8,7 @@ A collection of my LeetCode solutions written in C++, covering Data Structures a
 | ------- |
 | [0189-rotate-array](https://github.com/Sanskar7105/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sanskar7105/leetcode/tree/master/0283-move-zeroes) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Sanskar7105/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sanskar7105/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Sanskar7105/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sanskar7105/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -27,6 +28,7 @@ A collection of my LeetCode solutions written in C++, covering Data Structures a
 | ------- |
 | [0189-rotate-array](https://github.com/Sanskar7105/leetcode/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanskar7105/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Sanskar7105/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/Sanskar7105/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Sanskar7105/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/Sanskar7105/leetcode/tree/master/2469-convert-the-temperature) |
