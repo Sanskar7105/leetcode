@@ -11,6 +11,7 @@ A collection of my LeetCode solutions written in C++, covering Data Structures a
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sanskar7105/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Sanskar7105/leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Sanskar7105/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/Sanskar7105/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Sanskar7105/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sanskar7105/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanskar7105/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -52,4 +53,8 @@ A collection of my LeetCode solutions written in C++, covering Data Structures a
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sanskar7105/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Sanskar7105/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
