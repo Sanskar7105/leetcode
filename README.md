@@ -18,6 +18,7 @@ A collection of my LeetCode solutions written in C++, covering Data Structures a
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sanskar7105/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Sanskar7105/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/Sanskar7105/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/Sanskar7105/leetcode/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Sanskar7105/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sanskar7105/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sanskar7105/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -48,6 +49,7 @@ A collection of my LeetCode solutions written in C++, covering Data Structures a
 | [1528-shuffle-string](https://github.com/Sanskar7105/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sanskar7105/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/Sanskar7105/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/Sanskar7105/leetcode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sanskar7105/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sanskar7105/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
