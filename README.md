@@ -28,6 +28,7 @@ A collection of my LeetCode solutions written in C++, covering Data Structures a
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sanskar7105/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Sanskar7105/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Sanskar7105/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2469-convert-the-temperature](https://github.com/Sanskar7105/leetcode/tree/master/2469-convert-the-temperature) |
 ## Two Pointers
 |  |
 | ------- |
